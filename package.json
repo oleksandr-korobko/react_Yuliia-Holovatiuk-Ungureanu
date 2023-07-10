@@ -1,0 +1,23 @@
+{
+  "name": "react_yuliia-holovatiuk-ungureanu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oleksandr-korobko/react_Yuliia-Holovatiuk-Ungureanu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oleksandr-korobko/react_Yuliia-Holovatiuk-Ungureanu/issues"
+  },
+  "homepage": "https://github.com/oleksandr-korobko/react_Yuliia-Holovatiuk-Ungureanu#readme",
+  "keywords": [],
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
