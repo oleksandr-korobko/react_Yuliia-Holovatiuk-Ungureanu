@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/oleksandr-korobko/react_Yuliia-Holovatiuk-Ungureanu.git"
@@ -18,5 +17,6 @@
   "keywords": [],
   "devDependencies": {
     "tailwindcss": "^3.3.2"
-  }
+  },
+  "dependencies": {}
 }
